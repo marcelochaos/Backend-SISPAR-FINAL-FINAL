@@ -1,7 +1,7 @@
-# 🧩 API para Gestão de Colaboradores e Reembolsos
+# 🧩 API para Gestão de Colaboradores e Reembolsos.
 Este projeto foi desenvolvido com Flask e tem como objetivo gerenciar colaboradores e controlar solicitações de reembolso. A API oferece recursos como cadastro, login, atualização de dados dos colaboradores e operações relacionadas a reembolsos.
 
-## ⚙️ Tecnologias Utilizadas
+## ⚙️ Tecnologias Utilizadas.
 🐍 Python 3.x
 
 🔥 Flask
@@ -19,9 +19,9 @@ Este projeto foi desenvolvido com Flask e tem como objetivo gerenciar colaborado
 
 
 
-## 🧑‍💼 Funcionalidades
+## 🧑‍💼 Funcionalidades.
 
-### 🙋‍♂️ Colaboradores
+### 🙋‍♂️ Colaboradores.
 
 GET /colaborador/todos-colaboradores
 🔎 Lista todos os colaboradores cadastrados.
@@ -40,7 +40,7 @@ GET /colaborador/perfil
 
 ---
 
-###  💰 Reembolsos
+###  💰 Reembolsos.
 POST /colaborador/reembolsos
 📝 Registra uma nova solicitação de reembolso.
 
@@ -55,7 +55,7 @@ GET /colaborador/reembolsos/<id>
 
 ---
 
-## 🛠️ Como Rodar o Projeto
+## 🛠️ Como Rodar o Projeto.
 
 1. Clone o repositório:
    git clone https://github.com/seu-usuario/nome-do-repositorio.git

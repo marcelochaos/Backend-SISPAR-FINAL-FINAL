@@ -21,9 +21,6 @@ Este projeto foi desenvolvido com Flask e tem como objetivo gerenciar colaborado
 
 🧑‍💼 Funcionalidades
 
-### 👤 Colaboradores
-
-- 🙋‍♂️ Colaboradores
 GET /colaborador/todos-colaboradores
 🔎 Lista todos os colaboradores cadastrados.
 
